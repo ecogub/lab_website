@@ -14,14 +14,14 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: About
-      url: /about/
     - name: People
       url: /people/
     - name: Projects
       url: /projects/
-    - name: random
-      url: /rando/
+    - name: Teaching
+      url: /teaching/
+    - name: Updates
+      url: /updates/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
